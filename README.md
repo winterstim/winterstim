@@ -1,4 +1,4 @@
-# Hey, I’m Tymofii 👋
+# Hey, I’m Tymofii 🎸
 
 Backend engineer building audio/AI products and interactive 3D experiences.
 
