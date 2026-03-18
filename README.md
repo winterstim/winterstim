@@ -1,6 +1,6 @@
 # Hey, I’m Tymofii 🎸
 
-Backend engineer building audio/AI products and interactive 3D experiences.
+Backend Engineer • Go • AI Integration • 3D Web Experiences
 
 <p align="center">
   <a href="https://go.dev" target="_blank"><img height="32" alt="Go" src="https://cdn.simpleicons.org/go/00ADD8"></a>
@@ -17,8 +17,9 @@ Backend engineer building audio/AI products and interactive 3D experiences.
 </p>
 
 ### Projects
-- **ToneLab API** — Go backend for a web/VST audio platform.
-- **GuitarHub** — 3D guitar configurator (Next.js + Three.js).
+- **ToneLab** - Audio platform with AI integration, VST plugin support,
+  auth and billing. Go API + Rust audio engine + React frontend.
+- **GuitarHub** - 3D guitar configurator (Next.js + Three.js).
 
 ## Contact
 - Email: [winterstim@icloud.com](mailto:winterstim@icloud.com)
